@@ -8,7 +8,7 @@ Copy everything inside the box below and paste it into Claude.
 Already downloaded this repo? Skip the prompt. Open the folder in Claude, drop something into `inbox/`, and say "sort my inbox".
 
 ```text
-Set up a personal second brain in this folder, based on Andrej Karpathy's LLM wiki pattern. You are its maintainer: I drop things in, you file, link and keep it tidy.
+Set up a personal knowledge graph (a second brain) in this folder, based on Andrej Karpathy's LLM wiki pattern. You are its maintainer: I drop things in, you file, link and keep it tidy.
 
 Create this structure:
 - inbox/      where I drop anything (notes, links, PDFs, transcripts). Add a README.md saying "Drop anything here, then tell Claude: sort my inbox."

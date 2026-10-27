@@ -1,6 +1,6 @@
-# Build your second brain with Claude
+# CBC Knowledge Graph: build your second brain with Claude
 
-A starter knowledge base from Texas Claude Builder Club. You drop things in; Claude sorts them, writes linked notes, and answers questions from them. Open it in Obsidian and the links become a knowledge graph you can see.
+A starter knowledge graph from Texas Claude Builder Club. Think of it as a second brain: you drop things in; Claude sorts them, writes linked notes, and answers questions from them. Open it in Obsidian and the links become a knowledge graph you can see.
 
 It follows Andrej Karpathy's [LLM wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f): you curate, the AI does the bookkeeping.
 

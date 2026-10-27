@@ -1,6 +1,6 @@
-# Second brain rules
+# Knowledge graph rules
 
-You maintain this knowledge base. The human drops things in; you do the filing, linking and bookkeeping. Follow these rules every time.
+You maintain this knowledge graph (the owner's second brain). The human drops things in; you do the filing, linking and bookkeeping. Follow these rules every time.
 
 ## Folders
 
