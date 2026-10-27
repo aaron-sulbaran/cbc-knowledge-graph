@@ -86,6 +86,7 @@ wiki/    Claude's linked pages, plus index.md (the map) and log.md (the history)
 
 ## Troubleshooting
 
+- **Claude asks permission to write files or `.claude/skills/`:** allow it. That is how it saves your pages and workflows.
 - **Claude does not seem to know the workflows:** say "read CLAUDE.md and follow the sort workflow".
 - **Graph view is empty or has one dot:** run "sort my inbox" first; the links appear after pages exist.
 - **Windows cannot open the folder in Claude:** you are probably inside the ZIP preview. Right-click the ZIP, Extract All, and open the extracted folder.

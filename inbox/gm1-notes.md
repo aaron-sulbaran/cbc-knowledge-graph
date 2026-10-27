@@ -1,4 +1,4 @@
-notes from claude builder club gm 1, oct 27 2026
+my notes from my first claude builder club meeting (gm 1, oct 27 2026). i'm a member, not an organizer
 
 - texas claude builder club = student club at UT Austin for anyone building with claude, any major
 - run by rohan yelandur (junior, CS) and aaron sulbaran (senior, ECE)
